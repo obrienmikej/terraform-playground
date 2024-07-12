@@ -22,3 +22,4 @@ output "bucket_tags" {
   description = "The tags of the bucket"
   value       = aws_s3_bucket.this.tags
 }
+
