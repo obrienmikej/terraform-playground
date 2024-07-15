@@ -14,3 +14,5 @@ buckets = [
     }
   }
 ]
+
+region      = "us-west-1"
