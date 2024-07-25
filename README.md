@@ -1,3 +1,5 @@
+(https://github.com/github/docs/actions/workflows/autodoc.yml/badge.svg)
+
 # terraform-playground
 <!-- BEGIN_TF_DOCS -->
 #### Providers
