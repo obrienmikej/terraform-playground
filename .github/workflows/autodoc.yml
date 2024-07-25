@@ -6,7 +6,7 @@ name: "Autodoc Workflow - Terraform-docs"
 
 # This workflow will triggers on a pull request. 
 on:
-  push:
+  pull_request:
 
 # Selecting ubuntu-latest provisions a VM with latest stable image GitHub offers. 
 jobs:
